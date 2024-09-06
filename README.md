@@ -6,12 +6,16 @@
 ###  Sobre o projeto
 Essa aplicação te permite fazer uma viagem no tempo e relembrar ou descobrir como era o mundo no ano em que você veio ao mundo.
 
+### Endereço de acesso a aplicação (VERCEL)
+https://projeto-imersao-dev-alura.vercel.app/
+
 ### ️ Tecnologias utilizadas
 * **HTML:** Estrutura da página web.
 * **CSS:** Estilização da página, deixando ela com uma cara bem legal e responsiva para diferentes dispositivos.
 * **JavaScript:** A mágica por trás da aplicação! É ele quem busca as informações e as exibe na tela.
 * **Google Fonts:** Para deixar o texto mais bonito e personalizado.
 * **GitHub:** Para armazenar o código e compartilhar com a comunidade.
+* **Google Gemini** Para auxilio na construção do Projeto
 
 ### ⚙️ Como funciona
 1. **Digite o ano:** Basta inserir o ano do seu nascimento no campo indicado.
